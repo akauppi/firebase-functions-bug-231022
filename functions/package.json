@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "16"
+  },
+  "dependencies": {
+    "firebase-functions": "^4.0.1"
+  }
+}
